@@ -5,6 +5,8 @@ public static void main(String []args){
 String nama;
 System.out.print("masukan nama anda  :");
 nama = scanner.nextLine();
+System.out.println("Hai "+nama);
+
 
 
 }
